@@ -1,0 +1,226 @@
+    1  git init
+    2  git add TEST.txt
+    3  git add .
+    4  git status
+    5  git commit -m "deneme"
+    6  git status
+    7  git branch -M main
+    8  git remote add origin https://github.com/AyselKapusuz/GITHUB_TEST.git
+    9  git push -u origin main
+   10  git init
+   11  git add .
+   12  git init
+   13  git add .
+   14  git commit
+   15  whoami
+   16  help
+   17  help cd
+   18  clear
+   19  pwd
+   20  cd
+   21  pwd
+   22  cd desktop
+   23  pwd
+   24  cd desktop
+   25  pwd
+   26  ls
+   27  dir
+   28  cd Api
+   29  cd Aysel
+   30  pwd
+   31  clear
+   32  cd ..
+   33  pwd
+   34  cd desktop
+   35  pwd
+   36  clear
+   37  pwd
+   38  cd Aysel
+   39  touch goit.txt
+   40  cd QA-GIT
+   41  pwd
+   42  mkdir
+   43  date
+   44  ping www.google.com
+   45  systeminfo
+   46  clear
+   47  ipconfig
+   48  clear
+   49  cd desktop
+   50  cd ..
+   51  cd Aysel
+   52  clear
+   53  git config --global user.name "Aysel"
+   54  git config -- global user.mail "ayselkapusuz@gmail.com"
+   55  pwd
+   56  git init
+   57  git add .
+   58  git remote init
+   59  gir commit -"Ilk versiyon"
+   60  git commit -m "ilk versiyon"
+   61  git remote add origin url https://github.com/AyselKapusuz/GoIT_Aysel
+   62  git push -u origin master
+   63  git init
+   64  git add
+   65  git add .
+   66  git commit -m "ilkdeneme"
+   67  git remote add origin https://github.com/AyselKapusuz/Test.git
+   68  git push -u origin main
+   69  git remote add origin http://github.com/AyselKapusuz/Test.git
+   70  git branch -M main
+   71  git push -u origin main
+   72  git config --global user.name "AyselKapusuz"
+   73  git config --global user.email "ayselkapusuz@.com"
+   74  git branch
+   75  git branch "Ayse"
+   76  git branch master
+   77  git config --global user.email "ayselkapusuz@gmail.com"
+   78  clear
+   79  git clone https://github.com/mokumus7/Goit.git
+   80  cd Goit
+   81  git branch
+   82  git add .
+   83  git commit
+   84  pwd
+   85  pwd
+   86  cd Goit
+   87  git add .
+   88  git commit -m "Aysel"
+   89  git push
+   90  git branch Aysel
+   91  git checkout Aysel
+   92  git add .
+   93  git commit -m "Aysel"
+   94  git push
+   95  git push --set-upstream origin Aysel
+   96  clear
+   97  https://github.com/mokumus7/Goit.git
+   98  git add .
+   99  git commit "Aysel"
+  100  git commit -m "Test Test Aysel"
+  101  git push
+  102  git branch
+  103  git checkout master
+  104  git add .
+  105  git commit -m "v1"
+  106  git pull
+  107  git branch
+  108  pwd
+  109  cd C:\Users\aysel.kapusuz\OneDrive - World Food Programme\Desktop\Aysel\QA\GIT
+  110  pwd
+  111  cd C:\Users\aysel.kapusuz\OneDrive - World Food Programme\Desktop\Aysel\QA\GIT
+  112  git init
+  113  git init
+  114  git status
+  115  git add deneme.txt
+  116  git add Deneme.txt
+  117  git add .
+  118  git commit -m "v1"
+  119  git brach -M main
+  120  git remote add origin https://github.com/AyselKapusuz/Test_GoIT.git
+  121  git push 
+  122  git remote add origin https://github.com/AyselKapusuz/Test_GoIT.git
+  123  clear
+  124  git add .
+  125  git commit -m "first commit"
+  126  git branch -M main
+  127  git remote add origin https://github.com/AyselKapusuz/Test_GoIT.git
+  128  git push -u origin main
+  129  git status
+  130  git add <Denem.txt>
+  131  git add .
+  132  git commit -m "first version'
+  133  clear
+  134  git add .
+  135  git commit -m "first version"
+  136  git branch -M main
+  137  gir remote add origin https://github.com/AyselKapusuz/Test_GoIT.git
+  138  git remote add origin https://github.com/AyselKapusuz/Test_GoIT.git
+  139  git push -u origin main
+  140  git add Deneme.txt
+  141  git commit -m "yeni aciklamalar ekledim"
+  142  git push
+  143  git checkout
+  144  git pull
+  145  git checkout -b newbranch
+  146  git status
+  147  git add --all
+  148  git commit -m "yeni dosya"
+  149  git status
+  150  git push
+  151  git push --set-upstream origin newbranch
+  152  git status
+  153  git checkout main
+  154  git pull
+  155  git checkout -b login
+  156  clear
+  157  git status
+  158  git add --all
+  159  git commit -m "login oldum"
+  160  git push
+  161   git push --set-upstream origin login
+  162  git log
+  163  git reset
+  164  git reset HEAD~1
+  165  git add --all
+  166  git commit -m "hard reset sonrasi login olmayi unutmayin"
+  167  git push
+  168  git pull
+  169  git push
+  170  git checkout
+  171  git status
+  172  git merge --abort" to abort the merge
+  173  git status
+  174  git status
+  175  git checkout 
+  176  git comit -m "conflict hatasi giderildi
+  177  clear
+  178  git commit -m "conflict hatasi giderildi"
+  179  git checkout -b main branch
+  180  git checkout -b main
+  181  git checkout
+  182  git branch
+  183  pwd
+  184  whoami
+  185  cd desktop
+  186  ls
+  187  touch goit.txt
+  188  mkdir Lessons
+  189  rm goit.txt
+  190  rmdir Dersler
+  191  rmdir Lessons
+  192  cd ..
+  193  git clone https://github.com/AyselKapusuz/HW_10
+  194  cd "HW_10"
+  195  touch text_ignore.txt
+  196  echo "text_ignore.txt" << .gitignore
+  197  echo "text_ignore.txt">> .gitigonre
+  198  clear
+  199  git status
+  200  echo "text_ignore.txt" >> .gitignore
+  201  git status
+  202  git add .
+  203  git commit -m "text_ignore.txt dosyasi ignore listesine eklendi"
+  204  touch main_test.txt
+  205  git add .
+  206  git commit -m "main_test.txt dosyasina eklendi"
+  207  git push
+  208  git checkout -b develop
+  209  clear
+  210  touch develop_test.txt
+  211  git add .
+  212  git commit -m "develop_test.txt dosyasi olusturuldu"
+  213  echo "bu dosya develop dalinda olusturuldu" >> develop_test.txt
+  214  git status
+  215  git add .
+  216  git commit -m "develop_test.txt dosyasinda degisiklik yapildi"
+  217  git branch develop
+  218  git push
+  219   git push --set-upstream origin develop
+  220  git add .
+  221  git commit -m "develop_test.txt dosyasinda degisiklik yapildi"
+  222  clear
+  223  git checkout main
+  224  git merge develop
+  225  git log --
+  226  history > command_list.cvs
